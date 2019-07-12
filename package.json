@@ -20,7 +20,7 @@
     "zipfian-integer": "~1.0.1"
   },
   "devDependencies": {
-    "hallmark": "^0.1.0",
+    "hallmark": "^1.0.0",
     "standard": "^13.0.1",
     "tape": "^4.10.2"
   },
