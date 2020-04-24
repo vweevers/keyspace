@@ -22,7 +22,7 @@
   "devDependencies": {
     "hallmark": "^2.0.0",
     "standard": "^14.0.0",
-    "tape": "^4.10.2"
+    "tape": "^5.0.0"
   },
   "keywords": [
     "benchmark",
